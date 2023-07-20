@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    color: #ddd;
+    text-decoration: none;
+}
+article{
+    max-width: 600px;
+    margin: auto;
+}
